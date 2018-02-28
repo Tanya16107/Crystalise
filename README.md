@@ -8,4 +8,6 @@ I made this following an online tutorial, links to which are:
 
 This attempt was a part of my first effort to dive in for [100-Days-Of-Code](https://github.com/Tanya16107/100-days-of-code).
 
-[Demo](https://twitter.com/twitter/statuses/894600806346801152)
+[Test Demo : Hello World!](https://twitter.com/twitter/statuses/894600806346801152)
+
+[Final Demo : Completed Project](https://twitter.com/20114251_/status/895214149000609792)
