@@ -8,4 +8,4 @@ I made this following an online tutorial, links to which are:
 
 This attempt was a part of my first effort to dive in for [100-Days-Of-Code](https://github.com/Tanya16107/100-days-of-code).
 
-![Demo](https://twitter.com/twitter/statuses/894600806346801152)
+[Demo](https://twitter.com/twitter/statuses/894600806346801152)
